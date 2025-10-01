@@ -1,4 +1,4 @@
-I like understanding intelligence and I have a lot of crazy ideas
+I like understanding intelligence and I have lots of crazy ideas
 
 <!--
 **alexiglad/alexiglad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
